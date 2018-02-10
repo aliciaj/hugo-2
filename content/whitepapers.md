@@ -1,7 +1,7 @@
 ---
-title: "Whitepapers"
-date: 2018-02-09T08:36:18-05:00
-draft: true
----
+title: Whitepapers
+date: 2018-02-09 08:36:18 -0500
+type: page
 
+---
 Whitepapers
